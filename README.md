@@ -1,6 +1,11 @@
 ## paddle-frontend-assessment
 Reproduced coming soon design prototype with react.js.
 Frontend coming soon landing page routing using React with Hooks
+## Deployed over vercel
+https://paddle-frontend-assessment-zeta.vercel.app
+
+## via the "/github" route
+https://paddle-frontend-assessment-zeta.vercel.app/github
 
 ## Installation
 use the package create-react-app to install and setup react.
